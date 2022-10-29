@@ -4,7 +4,7 @@ import random
 import time
 import datetime
 
-bot = telebot.TeleBot("5151579431:AAE_IyfI1NCa25aOSBMjqmqVc-0pVDmxXhc")
+bot = telebot.TeleBot("5668233078:AAH8aFSGgnAPb52M1EMp04OXCW5Fdkjj74o")
 
 fact = [
     "🌳 Посадить дерево",
